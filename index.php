@@ -32,5 +32,4 @@
 
     <!-- Fine esercizio snack b1 -->
 </body>
-
 </html>
