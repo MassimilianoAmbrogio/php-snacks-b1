@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Snack b1</title>
 </head>
-
 <body>
     <!-- Inizio esercizio snack b1 -->
 
@@ -26,7 +24,7 @@
     elseif (is_numeric($age)) {
         $reply = 'Accesso riuscito';
     } else {
-        $reply = 'Accesso negato';
+        $reply = 'Accesso negato, riprova';
     }
     ?>
 
